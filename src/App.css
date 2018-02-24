@@ -6,12 +6,24 @@
   background-color: #222;
   padding: 20px;
   color: white;
+  margin-bottom: 20px;
 }
 
 .App-title {
   font-size: 1.5em;
 }
 
-.App-intro {
-  font-size: large;
+.App-link {
+  color: #E25041;
+}
+
+.App-link:hover {
+  color: #FAC51C;
+}
+
+.App-main {
+  max-width: 600px;
+  padding: 0 20px;
+  position: relative;
+  margin: auto;
 }

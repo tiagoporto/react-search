@@ -9,11 +9,11 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">Inkitt</h1>
           <p className="App-intro">
-            To get started, edit <code>src/App.js</code> and save to reload.
+            <a href="https://github.com/tiagoporto/" className="App-link">Tiago Porto</a>'s test
           </p>
         </header>
 
-        <main>
+        <main className="App-main">
           <Search/>
         </main>
       </div>
