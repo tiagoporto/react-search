@@ -1,7 +1,16 @@
 {
-  "main.css": "static/css/main.59486b81.css",
-  "main.css.map": "static/css/main.59486b81.css.map",
-  "main.js": "static/js/main.0c40d38d.js",
-  "main.js.map": "static/js/main.0c40d38d.js.map",
-  "static/media/loading.svg": "static/media/loading.cd1113bc.svg"
+  "main.css": "/inkitt/static/css/main.42ef5976.chunk.css",
+  "main.js": "/inkitt/static/js/main.f848a2a7.chunk.js",
+  "main.js.map": "/inkitt/static/js/main.f848a2a7.chunk.js.map",
+  "static/css/1.16d36e6a.chunk.css": "/inkitt/static/css/1.16d36e6a.chunk.css",
+  "static/js/1.9fc01f4f.chunk.js": "/inkitt/static/js/1.9fc01f4f.chunk.js",
+  "static/js/1.9fc01f4f.chunk.js.map": "/inkitt/static/js/1.9fc01f4f.chunk.js.map",
+  "runtime~main.js": "/inkitt/static/js/runtime~main.4a82ff82.js",
+  "runtime~main.js.map": "/inkitt/static/js/runtime~main.4a82ff82.js.map",
+  "static/css/1.16d36e6a.chunk.css.map": "/inkitt/static/css/1.16d36e6a.chunk.css.map",
+  "static/media/loading.svg": "/inkitt/static/media/loading.cd1113bc.svg",
+  "static/css/main.42ef5976.chunk.css.map": "/inkitt/static/css/main.42ef5976.chunk.css.map",
+  "index.html": "/inkitt/index.html",
+  "precache-manifest.ddbfa81936d73568ec5139bb1c84019c.js": "/inkitt/precache-manifest.ddbfa81936d73568ec5139bb1c84019c.js",
+  "service-worker.js": "/inkitt/service-worker.js"
 }
