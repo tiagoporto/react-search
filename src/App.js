@@ -8,7 +8,6 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1 className="App-title">React Search</h1>
-          <p className="App-intro">'s test</p>
         </header>
 
         <main className="App-main">
